@@ -16,3 +16,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 -Test
 Este directorio contiene las pruebas realizadas a los TADs, Estructuras de Datos y Algoritmos.
 
+Req. 4 - Luis Borbon Holguin, 202110887, l.borbonh@uniandes.edu.co
+Req. 4 - Jaime Alfonso Ruiz,202116525, j.alfonsor@uniandes.edu.co
